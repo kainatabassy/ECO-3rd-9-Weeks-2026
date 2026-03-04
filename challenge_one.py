@@ -1,5 +1,18 @@
 # Challenge One: The Mining Engine
-
+mining[inventoryPick, gem_inventory, gemstones, rarity]
+print("You head down to the mines...")
+if inventoryPick == "basic":
+   start_percent = 30
+    else if inventoryPick == "good"
+   start_percent = 50
+    else if inventoryPick = "better"
+    start_percent = 70
+    else
+    start_percent = 90
+    
+    print("You swing your pikc at the rock...")
+   chance = start_percent
+   
 
 """
 PROCEDURE mining(inventoryPick, gem_inventory, gemstones, rarity) {
